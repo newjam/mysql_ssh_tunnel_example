@@ -1,7 +1,3 @@
-/*
- * Copyright Pixatel
- */
-
 package com.github.newjam.test.tunnel;
 
 import java.io.IOException;
@@ -16,10 +12,6 @@ import java.util.concurrent.Executors;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-/**
- *
- * @author James Newman <james@pixatel.com>
- */
 public class Main {
   
   private final static Logger log = LoggerFactory.getLogger(Main.class);
